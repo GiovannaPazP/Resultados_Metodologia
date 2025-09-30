@@ -1,0 +1,4 @@
+==== Tamanho 100 (ordenado) ====
+Vetor de 100 elementos: 0.000026 segundos
+Consumo de memória: 400 bytes
+

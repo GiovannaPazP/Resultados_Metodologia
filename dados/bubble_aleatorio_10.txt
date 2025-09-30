@@ -1,0 +1,4 @@
+==== Tamanho 10 (aleatorio) ====
+Vetor de 10 elementos: 0.000003 segundos
+Consumo de memória: 40 bytes
+

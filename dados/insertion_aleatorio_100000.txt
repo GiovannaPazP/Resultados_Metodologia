@@ -1,0 +1,4 @@
+==== Tamanho 100000 (aleatorio) ====
+Vetor de 100000 elementos: 8.374447 segundos
+Consumo de memória: 400000 bytes
+

@@ -1,0 +1,4 @@
+==== Tamanho 1000 (reverso) ====
+Vetor de 1000 elementos: 0.003666 segundos
+Consumo de memória: 4000 bytes
+

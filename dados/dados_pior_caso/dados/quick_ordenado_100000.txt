@@ -1,0 +1,4 @@
+==== Tamanho 100000 (ordenado) ====
+Vetor de 100000 elementos: 13.725145 segundos
+Consumo de memória: 400000 bytes
+
