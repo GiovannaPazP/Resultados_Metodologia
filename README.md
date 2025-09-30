@@ -5,6 +5,7 @@ A pasta contém, além desse readme, os códigos (quickSort.c, insertionSort.c, 
 Existem duas pastas extras, cuja explicação se encontra mais abaixo.
 
 Segue abaixo a lista de comandos e o que fazem.
+(Esses comandos devem ser rodados dentro do diretório codigos).
 
 make
 |-> compila o código.
